@@ -1,3 +1,30 @@
 .mobile-logo {
     width: 50px;
 }
+header{
+    height: 4.375rem;
+}
+.top-input>*{
+    background-color: #e5e5e5;
+    border-color: #e5e5e5;
+}
+.bell{
+    color: #ff8f00;
+}
+.main{
+    height: calc(100vh - 4.375rem);
+}
+.sidebar{
+    background-color:#051e34 ;
+    background-image: url(img/sidebar-bg.png);
+}
+.breadcrumb li{
+    background-color: #165bba;
+}
+
+
+@media (min-width: 992px) {
+    .sidebar{
+        width:9.375rem
+    }
+}
