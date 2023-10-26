@@ -18,6 +18,9 @@ header{
     background-color:#051e34 ;
     background-image: url(img/sidebar-bg.png);
 }
+.piano{
+    background-color: #165bba;
+}
 .breadcrumb li{
     background-color: #165bba;
 }
