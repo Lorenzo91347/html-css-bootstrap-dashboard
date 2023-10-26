@@ -24,6 +24,9 @@ header{
 .breadcrumb li{
     background-color: #165bba;
 }
+.fa-square-plus{
+    font-size: 2.875rem;
+}
 
 
 @media (min-width: 992px) {
