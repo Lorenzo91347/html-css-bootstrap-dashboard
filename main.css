@@ -13,10 +13,12 @@ header{
 }
 .main{
     height: calc(100vh - 4.375rem);
+    width: 100%;
 }
 .sidebar{
     background-color:#051e34 ;
     background-image: url(img/sidebar-bg.png);
+    
 }
 .piano{
     background-color: #165bba;
